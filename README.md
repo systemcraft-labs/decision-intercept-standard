@@ -157,3 +157,7 @@ of the Decision Intercept standard.
 
 Any future implementations, adaptations, or discussions  
 must acknowledge this definition as the originating reference.
+
+Philosophical statement:
+https://medium.com/@beforepay.1/decision-intercept-why-human-judgment-needs-a-final-moment-cbb4573049fa
+
