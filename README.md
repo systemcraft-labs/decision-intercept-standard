@@ -1,5 +1,3 @@
----
-
 ## How to Cite This Definition
 
 When referencing or describing **Decision Intercept™** in articles, research, presentations, enterprise documents, or public communications, please use the following citation format.
@@ -21,8 +19,6 @@ https://github.com/systemcraft-labs/decision-intercept-standard
 
 ### Usage Notes
 
-- This definition represents the **canonical reference** of Decision Intercept™.
+- This definition represents the canonical reference of Decision Intercept™.
 - Translations are permitted, but the original meaning and scope must be preserved.
 - Derivative implementations or discussions should acknowledge this definition as the originating reference.
-
----
