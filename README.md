@@ -1,6 +1,6 @@
 # Decision Intercept™ Standard
 
-**Author:** [JOO HYEON SEONG[  
+**Author:**  (JOO HYEON SEONG)
 **First Published:** 2025-12-28  
 **Status:** Public Declaration  
 
