@@ -1,4 +1,16 @@
 # Decision Intercept™ Standard
+---
+
+## One-Paragraph Definition (For Press / Enterprise / Research)
+
+**Decision Intercept™** is a global standard designed to introduce an explicit moment of human responsibility immediately before irreversible actions are executed.  
+It does not block, enforce, or surveil decisions; instead, it provides a clear confirmation point at the final possible moment.  
+Decision Intercept exists to clarify responsibility—not to impose control—ensuring that human judgment remains present in accelerated and automated systems.
+
+**Original definition:**  
+https://systemcraft-labs.github.io/decision-intercept-standard/
+
+---
 
 **Author:**  [JOO HYEON SEONG]
 **First Published:** 2025-12-28  
