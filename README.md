@@ -24,11 +24,12 @@ Decision Intercept is a system standard designed to operate **immediately before
 An irreversible action is any action that, once executed, cannot be fully undone without cost, harm, or responsibility transfer.
 
 Examples include but are not limited to:
-- Sending an email or message
-- Executing a payment
-- Publishing content
-- Signing a contract
-- Triggering automated or AI-driven actions
+
+- Sending an email or message  
+- Executing a payment  
+- Publishing content  
+- Signing a contract  
+- Triggering automated or AI-driven actions  
 
 Decision Intercept does not block, censor, override, or indefinitely delay human actions.
 
@@ -87,14 +88,16 @@ This principle is irrevocable.
 The Founder is the originator and custodian of the Decision Intercept standard.
 
 The Founder is not defined by operational execution, but by:
-- Definition authority
-- Principle preservation
-- Boundary protection
+
+- Definition authority  
+- Principle preservation  
+- Boundary protection  
 
 Titles include:
-- Founder
-- Architect
-- Standard Custodian
+
+- Founder  
+- Architect  
+- Standard Custodian  
 
 These authorities are non-delegable.
 
@@ -104,9 +107,9 @@ These authorities are non-delegable.
 
 Capital exists to support the standard — not to redefine it.
 
-- Revenue precedes valuation
-- Control precedes scale
-- Neutrality precedes growth
+- Revenue precedes valuation  
+- Control precedes scale  
+- Neutrality precedes growth  
 
 Forced monetization of personal users is prohibited.
 
@@ -116,8 +119,8 @@ Forced monetization of personal users is prohibited.
 
 Decision Intercept is a global behavioral standard.
 
-- Primary language: English
-- Korea is an initial validation environment, not a boundary
+- Primary language: English  
+- Korea is an initial validation environment, not a boundary  
 
 The standard is designed to operate across legal systems, cultures, and platforms.
 
@@ -127,12 +130,13 @@ The standard is designed to operate across legal systems, cultures, and platform
 
 When referencing or describing **Decision Intercept™** in articles, research, presentations, enterprise documents, or public communications, please use the following citation format.
 
-### Canonical Reference
+### License / Attribution Notice
 
-This definition is publicly disclosed for reference and discussion.
-Any implementation or derivative work must acknowledge this repository
+This definition is publicly disclosed for reference and discussion.  
+Any implementation or derivative work must acknowledge this repository  
 as the original source of the Decision Intercept™ standard.
 
+### Canonical Reference
 
 **Decision Intercept™** was originally defined and publicly declared by **Joo Hyeon Seong** on **2025-12-28**.
 
@@ -149,8 +153,8 @@ https://github.com/systemcraft-labs/decision-intercept-standard
 
 ### Usage Notes
 
-- This definition represents the canonical reference of Decision Intercept™.
-- Translations are permitted, but the original meaning and scope must be preserved.
+- This definition represents the canonical reference of Decision Intercept™.  
+- Translations are permitted, but the original meaning and scope must be preserved.  
 - Derivative implementations or discussions should acknowledge this definition as the originating reference.
 
 ---
@@ -163,6 +167,7 @@ of the Decision Intercept standard.
 Any future implementations, adaptations, or discussions  
 must acknowledge this definition as the originating reference.
 
-Philosophical statement:
-https://medium.com/@beforepay.1/decision-intercept-why-human-judgment-needs-a-final-moment-cbb4573049fa
+---
 
+**Philosophical statement:**  
+https://medium.com/@beforepay.1/decision-intercept-why-human-judgment-needs-a-final-moment-cbb4573049fa
