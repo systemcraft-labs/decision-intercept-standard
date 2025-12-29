@@ -129,6 +129,11 @@ When referencing or describing **Decision Intercept™** in articles, research, 
 
 ### Canonical Reference
 
+This definition is publicly disclosed for reference and discussion.
+Any implementation or derivative work must acknowledge this repository
+as the original source of the Decision Intercept™ standard.
+
+
 **Decision Intercept™** was originally defined and publicly declared by **Joo Hyeon Seong** on **2025-12-28**.
 
 Official definition and reference page:  
