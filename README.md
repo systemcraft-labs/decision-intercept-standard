@@ -151,3 +151,46 @@ All future implementations, adaptations, or discussions should recognize this de
 ## Philosophical Statement
 
 https://medium.com/@beforepay.1/decision-intercept-why-human-judgment-needs-a-final-moment-cbb4573049fa
+
+---
+
+---
+
+## Canonical Definition Freeze Notice
+
+This document constitutes the **canonical and authoritative definition** of the Decision Intercept™ standard.
+
+As of the freeze date specified below, the **core definition, principles, and scope described in this document are considered frozen** and will not be retroactively modified.
+
+Future materials may include:
+- explanatory documents
+- implementation examples
+- interpretive guidance
+- application-specific extensions
+
+Such materials **do not alter, override, or supersede** the original definition contained herein.
+
+Any future revisions, if ever issued, will be published as **explicitly versioned successors** and will not replace this canonical reference.
+
+**Freeze date:** 2025-12-28  
+**Status:** Canonical reference — frozen for long-term citation
+
+---
+
+## Canonical Hash / Reference Record
+
+The canonical frozen state of this document is identified by its **source control reference**.
+
+This document may be verified using either:
+- the Git commit hash associated with this freeze, or
+- a cryptographic hash published as part of an archival record.
+
+### Reference (to be populated)
+
+- **Git Commit SHA:** _to be recorded_
+- **Cryptographic Hash (optional):** _to be appended_
+
+This reference represents the authoritative frozen version of the Decision Intercept™ definition for citation, review, and verification purposes.
+
+---
+
