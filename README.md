@@ -203,7 +203,7 @@ This document may be verified using:
 Canonical Reference:
 
 Git Commit SHA:
-<REPLACE_WITH_NEW_COMMIT_SHA>
+8778cffce493d7834dc22a0a8c2ec58fc411cb33
 
 This commit represents the authoritative version for legal,
 enterprise, and academic citation.
