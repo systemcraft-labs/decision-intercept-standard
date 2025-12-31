@@ -209,7 +209,7 @@ The frozen canonical state of this definition is identified by the
 following source control reference:
 
 Git Commit SHA:
-<TO BE UPDATED>
+6ecc11ec58581e6d6d80113b06584b8c3d63d1a3
 
 
 This commit represents the authoritative version for legal,
