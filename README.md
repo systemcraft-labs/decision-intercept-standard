@@ -198,3 +198,20 @@ Git Commit SHA: to be recorded
 Cryptographic Hash (optional): to be appended  
 
 This reference represents the authoritative frozen version of the Decision Intercept™ definition for legal, enterprise, and academic citation.
+
+────────────────────────────
+Canonical Reference
+
+This document represents the canonical and authoritative definition
+of the Decision Intercept™ standard.
+
+The frozen canonical state of this definition is identified by the
+following source control reference:
+
+Git Commit SHA:
+9384b13e2be936b9d6345b3f803a7f4f432a6531
+
+This commit represents the authoritative version for legal,
+enterprise, and academic citation.
+────────────────────────────
+
