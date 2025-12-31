@@ -1,193 +1,200 @@
-# Decision Intercept™ Standard
+Decision Intercept™ Standard
 
-## One-Paragraph Definition (Press / Enterprise / Research)
+One-Paragraph Definition (Press / Enterprise / Research)
 
-**Decision Intercept™** is a global standard designed to introduce an explicit moment of human responsibility immediately before irreversible actions are executed.  
-It does not block, enforce, or surveil decisions; instead, it provides a clear confirmation point at the final possible moment of execution.  
-Decision Intercept exists to clarify responsibility—not to impose control—ensuring that human judgment remains present within accelerated and automated systems.
+Decision Intercept™ is a global action standard designed to introduce an explicit moment of human responsibility immediately before an irreversible action is executed.
 
-**Original definition:**  
+It does not block, enforce, surveil, or evaluate decisions. Instead, it provides a clear and intentional confirmation point at the final possible moment of execution.
+
+Decision Intercept™ exists to clarify responsibility—not to impose control—ensuring that human judgment remains consciously present within accelerated, automated, and AI-assisted systems.
+
+Original definition:
 https://systemcraft-labs.github.io/decision-intercept-standard/
 
-**Author:** Joo Hyeon Seong  
-**First published:** December 28, 2025  
-**Status:** Public declaration — canonical reference
+Author: Joo Hyeon Seong  
+First published: December 28, 2025  
+Status: Public declaration — canonical reference
 
----
+────────────────────────────
 
-## What is Decision Intercept™
+What is Decision Intercept™
 
 Decision Intercept™ is a system standard designed to operate immediately before an irreversible action is executed.
 
-An **irreversible action** is any action that, once performed, cannot be fully undone without cost, harm, or a transfer of responsibility.
+An irreversible action is defined as any action that, once performed, cannot be fully undone without cost, harm, or a transfer of responsibility.
 
 Examples include, but are not limited to:
-- Sending an email or message
-- Executing a payment
-- Publishing content
-- Signing a contract
-- Triggering automated or AI-driven actions
 
-Decision Intercept™ does not block, censor, or indefinitely delay human actions.
+• Sending an email or message  
+• Executing a payment  
+• Publishing content  
+• Signing a contract  
+• Triggering automated or AI-driven actions  
 
-Instead, it introduces a **clear and explicit confirmation moment** at the final possible point where responsibility can be consciously acknowledged by a human actor.
+Decision Intercept™ does not block, censor, delay indefinitely, or override human actions.
 
----
+Instead, it introduces a clear and explicit confirmation moment at the final possible point where responsibility can still be consciously acknowledged by a human actor.
 
-## Core Principles
+────────────────────────────
 
-- **Systems do not decide. Humans decide explicitly.**
-- **Fail-open by design.** No action is permanently blocked by default.
-- **No surveillance.** No behavioral profiling, hidden enforcement, or monitoring.
-- **Clarity over control.** The objective is not prevention, but responsibility attribution.
+Core Principles
 
----
+• Systems do not decide. Humans decide explicitly.  
+• Fail-open by design. No action is permanently blocked by default.  
+• No surveillance. No behavioral profiling, monitoring, or hidden enforcement.  
+• Clarity over control. The objective is not prevention, but responsibility attribution.
 
-## Purpose
+────────────────────────────
+
+Purpose
 
 As systems accelerate and irreversible actions become easier to trigger,  
 human judgment is increasingly compressed into milliseconds.
 
-Decision Intercept™ exists to ensure that **speed does not eliminate responsibility**.
+Decision Intercept™ exists to ensure that speed does not eliminate responsibility.
 
-This standard defines where human judgment should be explicitly recognized—  
-not by coercion, but by intentional acknowledgment.
+This standard defines where human judgment should be explicitly recognized—
+not by coercion, enforcement, or policy, but by intentional acknowledgment.
 
----
+────────────────────────────
 
-## Individual Use Charter
+Individual Use Charter
 
 Decision Intercept™ remains freely available for permanent individual use.
 
 This is not a pricing strategy.  
-It is a **structural guarantee**.
+It is a structural guarantee.
 
-- No advertising
-- No behavioral data monetization
-- No future paywalls for individual users
+• No advertising  
+• No behavioral data monetization  
+• No future paywalls for individual users  
 
-Monetization, where applicable, is limited strictly to organizational or domain-level contexts.
+Monetization, where applicable, is strictly limited to organizational, enterprise, or domain-level contexts.
 
-This principle is **designed as non-reversible**.
+This principle is defined as non-reversible.
 
----
+────────────────────────────
 
-## Founder Role Definition
+Founder Role Definition
 
-The Founder is defined as the originator and long-term steward of the Decision Intercept™ standard.
+The Founder is defined as the original author and long-term steward of the Decision Intercept™ standard.
 
 This role is not defined by implementation, deployment, or commercial operation, but by responsibility for:
-- Definition authority
-- Principle preservation
-- Boundary protection
 
-These responsibilities exist to ensure continuity and integrity of the original definition and are structurally separated from any specific implementation or product.
+• Definition authority  
+• Principle preservation  
+• Boundary protection  
 
----
+These responsibilities exist to ensure continuity and integrity of the original definition and are structurally separated from any specific implementation, product, or commercial entity.
 
-## Capital Principles
+────────────────────────────
+
+Capital Principles
 
 Decision Intercept™ is defined independently of capital structures.
 
-Financial participation, sponsorship, or licensing does not imply authority to redefine, reinterpret, or override the core definition of the standard.
+Financial participation, sponsorship, licensing, or adoption does not imply authority to redefine, reinterpret, supersede, or override the core definition of the standard.
 
-- Revenue does not precede responsibility
-- Scale does not precede clarity of control
-- Neutrality precedes growth
+• Revenue does not precede responsibility  
+• Scale does not precede clarity  
+• Neutrality precedes growth  
 
 Mandatory monetization of individual users is explicitly excluded by design.
 
----
+────────────────────────────
 
-## Global-First Positioning
+Global-First Positioning
 
 Decision Intercept™ is designed as a global action standard.
 
-- Primary language: English
-- Korea functions as an initial validation environment, not a boundary
-- The standard is designed to operate across legal systems, cultures, and platforms
+• Primary language: English  
+• Korea functions as an initial validation environment, not a boundary  
+• The standard is designed to operate across legal systems, cultures, and platforms  
 
----
+────────────────────────────
 
-## Citation Guidance
+Citation Guidance
 
-When referencing Decision Intercept™ in articles, research, presentations, enterprise documents, audits, or public communications, this document should be used as the canonical reference.
+When referencing Decision Intercept™ in articles, research, presentations, enterprise documents, audits, or public communications, this document should be cited as the canonical reference.
 
----
+────────────────────────────
 
-## License & Attribution
+License & Attribution
 
 This definition is published openly for reference and discussion.
 
 All implementations, adaptations, or derivative works must acknowledge this repository as the original source of the Decision Intercept™ standard.
 
-**Canonical attribution:**  
-Decision Intercept™ was originally defined and publicly declared by **Joo Hyeon Seong** on December 28, 2025.
+Canonical attribution:
 
-**Official definition & reference page:**  
+“Decision Intercept™ was originally defined and publicly declared by Joo Hyeon Seong on December 28, 2025.”
+
+Official definition & reference page:
 https://systemcraft-labs.github.io/decision-intercept-standard/
 
-**GitHub source repository (canonical record):**  
+GitHub source repository (canonical record):
 https://github.com/systemcraft-labs/decision-intercept-standard
 
----
+────────────────────────────
 
-## Usage Notes
+Usage Notes
 
-- This document represents the canonical reference of Decision Intercept™.
-- Translations are permitted, provided that the original meaning, scope, and intent are preserved.
-- Any discussion, implementation, or policy reference should acknowledge this definition as the primary source.
+This document represents the canonical reference of Decision Intercept™.
 
----
+Translations are permitted, provided that the original meaning, scope, and intent are preserved.
 
-## Declaration
+Any discussion, implementation, certification, policy reference, or compliance claim should acknowledge this definition as the primary source.
+
+────────────────────────────
+
+Declaration
 
 This repository constitutes the original public definition of the Decision Intercept™ standard.
 
-All future implementations, interpretations, adaptations, or discussions should recognize this definition as the canonical source.
+All future implementations, interpretations, adaptations, certifications, or discussions should recognize this definition as the canonical source.
 
----
+────────────────────────────
 
-## Philosophical Statement
+Philosophical Statement
 
 https://medium.com/@beforepay.1/decision-intercept-why-human-judgment-needs-a-final-moment-cbb4573049fa
 
----
+────────────────────────────
 
-## Canonical Definition Freeze Notice
+Canonical Definition Freeze Notice
 
-This document constitutes the **canonical and authoritative definition** of the Decision Intercept™ standard.
+This document constitutes the canonical and authoritative definition of the Decision Intercept™ standard.
 
-As of the freeze date specified below, the **core definition, principles, and scope described in this document are considered frozen** and will not be retroactively modified.
+As of the freeze date specified below, the core definition, principles, scope, and intent described in this document are considered frozen and will not be retroactively modified.
 
 Future materials may include:
-- explanatory documents
-- implementation examples
-- interpretive guidance
-- application-specific extensions
 
-Such materials **do not alter, override, or supersede** the original definition contained herein.
+• Explanatory documents  
+• Implementation examples  
+• Interpretive guidance  
+• Application-specific extensions  
 
-Any future revisions, if ever issued, will be published only as **explicitly versioned successor documents** and will not replace this canonical reference.
+Such materials do not alter, override, reinterpret, or supersede the original definition contained herein.
 
-**Freeze date:** December 28, 2025  
-**Status:** Canonical reference — frozen for long-term citation
+Any future revisions, if ever issued, will be published only as explicitly versioned successor documents and will not replace this canonical reference.
 
----
+Freeze date: December 28, 2025  
+Status: Canonical reference — frozen for long-term citation
 
-## Canonical Hash / Reference Record
+────────────────────────────
 
-The canonical frozen state of this document is identified by its **source control reference**.
+Canonical Hash / Reference Record
+
+The canonical frozen state of this document is identified by its source control reference.
 
 This document may be verified using:
-- the Git commit hash associated with this freeze, and/or
-- a cryptographic hash published as part of an archival record.
 
-### Canonical Reference
+• The Git commit hash associated with this freeze, and/or  
+• A cryptographic hash published as part of an archival record  
 
-- **Git Commit SHA:** _to be recorded_
-- **Cryptographic Hash (optional):** _to be appended_
+Canonical Reference:
+
+Git Commit SHA: to be recorded  
+Cryptographic Hash (optional): to be appended  
 
 This reference represents the authoritative frozen version of the Decision Intercept™ definition for legal, enterprise, and academic citation.
-
----
